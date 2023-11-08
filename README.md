@@ -1,15 +1,15 @@
 # Project_5
 PROJECT-5. Задача регрессии
 ## Оглавление
-[1. Описание проекта](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+[1. Описание проекта](https://github.com/BNastya8/Project_5#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Организационная информация](https://github.com/BNastya8/PROJECT-4#%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
+[2. Организационная информация](https://github.com/BNastya8/Project_5#%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)
 
-[3. Краткая информация о данных](https://github.com/BNastya8/PROJECT-4#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[3. Краткая информация о данных](https://github.com/BNastya8/Project_5#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-[4. Результат](https://github.com/BNastya8/PROJECT-4#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
+[4. Результат](https://github.com/BNastya8/Project_5#%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
 
-[5. Выводы](https://github.com/BNastya8/PROJECT-4#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+[5. Выводы](https://github.com/BNastya8/Project_5#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### Описание проекта
 Вам будет предоставлен набор данных, содержащий информацию о поездках на жёлтом такси в Нью-Йорке за 2016 год. Первоначально данные были выпущены Комиссией по Такси и Лимузинам Нью-Йорка и включают в себя информацию о времени поездки, географических координатах, количестве пассажиров и несколько других переменных.
@@ -18,7 +18,7 @@ PROJECT-5. Задача регрессии
 
 Техническая задача для вас как для специалиста в Data Science: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать числовой признак — время поездки такси, то есть решить задачу регрессии.
 
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Организационная информация
 **Проект будет состоять из пяти частей:**
@@ -35,22 +35,22 @@ PROJECT-5. Задача регрессии
 - Ответьте на все контрольные вопросы. Внимательно читайте вопросы и не забывайте про жёсткие требования к их последовательности: любое нарушение порядка действий может повлечь невозможность получить верные ответы.
 - Загрузите ноутбук со своим решением на GitHub, аккуратно его оформив. Несмотря на то, что ваши ответы не будут проверяться ментором, решение реального кейса может стать хорошим вкладом в ваше портфолио.
 
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 ### Краткая информация о данных
 Сервисы такси хранят огромные объёмы информации о поездках, включая такие данные, как конечная и начальная точки маршрута, дата поездки и её продолжительность. Эти данные можно использовать для того, чтобы прогнозировать длительность поездки в автоматическом режиме с привлечением искусственного интеллекта.
 
-Задача, которую мы будем решать, была представлена в качестве Data Science-соревнования с призовым фондом в 30 000 $ на платформе Kaggle в 2017 году. Найти их можно по [ссылке.]([https://lms-cdn.skillfactory.ru/assets/courseware/v1/dab91dc74eb3cb684755123d224d262b/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/bank_fin.zip](https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view?usp=sharing))
+Задача, которую мы будем решать, была представлена в качестве Data Science-соревнования с призовым фондом в 30 000 $ на платформе Kaggle в 2017 году. Найти их можно по [ссылке.](https://drive.google.com/file/d/1X_EJEfERiXki0SKtbnCL9JDv49Go14lF/view?usp=sharing)
   
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT-4#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Результаты:  
 
 
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Выводы:  
 
-:arrow_up:[к оглавлению](https://github.com/BNastya8/PROJECT_1_HeadHunter/edit/main/README.mdd##Оглавление)
+:arrow_up:[к оглавлению](https://github.com/BNastya8/Project_5#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
